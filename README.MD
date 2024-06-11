@@ -4,4 +4,4 @@ This project demonstrates the use of various form elements in HTML, including te
 
 ## Preview
 
-![Form Preview](.\form.jpg)
+![Form Preview](form.jpg)
